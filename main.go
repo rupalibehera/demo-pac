@@ -5,5 +5,5 @@ import "fmt"
 const unused = `unusedstr`
 
 func main() {
-	fmt.Println("Helloooo world!!!!!")
+	fmt.Println("Hellooooo world!!!!!")
 }
